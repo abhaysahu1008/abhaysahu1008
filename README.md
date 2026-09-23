@@ -1,6 +1,6 @@
 <div align="center">
   <!-- 1. TOP BANNER IMAGE -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi%20There!%20👋&fontSize=50&animation=fadeIn" width="100%" />
+  <img src="[https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi%20There!%20👋&fontSize=50&animation=fadeIn](https://www.vecteezy.com/free-photos/web-developer-background)" width="100%" />
 </div>
 
 <br />
