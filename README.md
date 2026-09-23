@@ -25,7 +25,8 @@
       <h3>Engineering products that scale & stick with time.</h3>
       <ul>
         <li>🌱 Currently building full-stack web applications</li>
-        <li>🚀 Live projects ➔ <a href="https://yourwebsite.com">yourwebsite.com</a></li>
+        <li>🚀 Live projects ➔ <a href="https://teenants.site">teenants app</a></li>
+        <li>🚀 Live projects ➔ <a href="https://my-inventory-app-54uw.vercel.app/">Ledgr IMS app</a></li>
         <li>💼 Open to full-time roles & engineering collaborations</li>
       </ul>
     </td>
